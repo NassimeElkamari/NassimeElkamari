@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nassimeelkamari&label=Profile%20views&color=0e75b6&style=flat" alt="nassimeelkamari" /> </p>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **Next js with typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NassimeElkamari](https://github.com/NassimeElkamari)
 
-- 💬 Ask me about **react , javascript , html , css , flutter , java**
+- 💬 Ask me about **react , javascript , html , css , flutter , java , nextjs **
 
 - 📫 How to reach me **elkamarinassime@gmail.com**
 
