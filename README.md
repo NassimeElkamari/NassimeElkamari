@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NassimeElkamari](https://github.com/NassimeElkamari)
 
-- 💬 Ask me about **react , javascript , html , css , flutter , java , nextjs **
+- 💬 Ask me about **react , javascript , html , css , flutter , java , nextjs , mongoDB **
 
 - 📫 How to reach me **elkamarinassime@gmail.com**
 
