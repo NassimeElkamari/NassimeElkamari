@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NassimeElkamari](https://github.com/NassimeElkamari)
 
-- 💬 Ask me about **react , javascript , html , css , flutter , java , nextjs , mongoDB , JEE **
+- 💬 Ask me about **react , javascript , html , css , flutter , java , nextjs , mongoDB , JEE ** , angular , spring boot , docker , jenkins , kubernetes , grafana , prometheus
 
 - 📫 How to reach me **elkamarinassime@gmail.com**
 
